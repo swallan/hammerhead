@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>00000101.jpg</filename>
+	<path>/Users/swallan/Downloads/sharks/hammerhead/train/00000101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hammerhead</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>89</ymin>
+			<xmax>499</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>
